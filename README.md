@@ -62,7 +62,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFyYWXQs7MO_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693878124431?e=1732752000&v=beta&t=XjfJZ48pYuMc_rm4061Cquz-G99NGTZ-k444WsHuNcI" width="100px;" alt="Foto do Thomas Heinrich"/><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQF4iD7Ew2AeyQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727390977509?e=1732752000&v=beta&t=DmQmgLe4uyTwPb583N58681BE2mH3vrK19aVMiBlyuQ" width="100px;" alt="Foto do Thomas Heinrich"/><br>
         <sub>
           <b>Thomas Heinrich</b>
         </sub>
@@ -115,6 +115,14 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQG8MQ0FH-A8Kw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694276786542?e=1732752000&v=beta&t=ZryqWPgTFZJQnZ0LCriRHSMSlBcyjDa6EBauplnzg3Y" width="100px;" alt="Foto do Aguinaldo Cardoso"/><br>
         <sub>
           <b>Aguinaldo Cardoso</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQH0LcFjvOdkQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715695704661?e=1733356800&v=beta&t=fmXY4oaT4y_i965OaSZnNlhkj3GZlT1wD-Io4OCTWvk" width="100px;" alt="Foto do Jordan Mello"/><br>
+        <sub>
+          <b>Jordan Mello</b>
         </sub>
       </a>
     </td>
